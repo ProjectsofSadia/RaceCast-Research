@@ -319,7 +319,7 @@ RaceCast-Research/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-RACECAST-RESEARCH-REPOSITORY-URL>
+git clone https://github.com/ProjectsofSadia/RaceCast-Research.git
 cd RaceCast-Research
 ```
 
