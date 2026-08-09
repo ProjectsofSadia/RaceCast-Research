@@ -1,0 +1,14 @@
+{
+  "n_segments": 2487,
+  "n_pairs": 372,
+  "n_circuits": 5,
+  "n_drivers": 21,
+  "best_model": "Gradient Boosting",
+  "best_mean_loco_mae_s": 0.0563459836581409,
+  "best_mean_loco_rmse_s": 0.09350376151445569,
+  "best_mean_loco_r2": 0.7257737419940421,
+  "shap": {
+    "available": true,
+    "samples": 1500
+  }
+}
