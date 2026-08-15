@@ -1,5 +1,7 @@
 # RaceCast
 
+[![DOI](https://zenodo.org/badge/1327397758.svg)](https://doi.org/10.5281/zenodo.21958449)
+
 ## Cross-Circuit Formula 1 Telemetry Performance Decomposition
 
 RaceCast is an independent motorsport telemetry research project investigating how lap-time differences can be decomposed at the segment level using analytical reconstruction and machine-learning methods, and how well those relationships generalize across circuits.
@@ -397,6 +399,19 @@ RaceCast provides a foundation for further work in:
 - Race-strategy optimization
 - Simulation and telemetry correlation
 - Cross-session and cross-season generalization
+
+---
+
+## Citation
+
+If you use RaceCast Research in academic, engineering, or analytical work, please cite the archived software release:
+
+**Anowar, Kazi Sadia. (2026). RaceCast Research: Cross-Circuit Formula 1 Telemetry Performance Decomposition (v1.0.0) [Computer software]. Zenodo.**
+
+- **All-versions DOI:** https://doi.org/10.5281/zenodo.21958449
+- **Version v1.0.0 DOI:** https://doi.org/10.5281/zenodo.21958450
+
+The all-versions DOI should be used when referencing the RaceCast Research project generally. The version DOI identifies the archived v1.0.0 release specifically.
 
 ---
 
